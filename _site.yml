@@ -1,0 +1,14 @@
+name: "."
+title: "Anaïs Rouanet"
+description: |
+  Anaïs Rouanet
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Publications"
+      href: Publications.pdf
+    - text: "CV"
+      href: CV.pdf
+output: distill::distill_article

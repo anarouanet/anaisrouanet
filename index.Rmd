@@ -1,0 +1,46 @@
+---
+title: "Anaïs Rouanet"
+image: "Photo_AR2.png"
+links:
+  - label: GitHub
+    url: "https://github.com/anarouanet/"
+  - label: ResearchGate
+    url: "https://www.researchgate.net/profile/Anais-Rouanet-2/"
+  - label: Bordeaux Population Health
+    url: "https://www.bordeaux-population-health.center/profile/anais-rouanet/"
+  - label: Email
+    url: "anais.rouanet@u-bordeaux.com"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+
+I am a postdoctoral researcher working at the Bordeaux Population Health research center (Inserm U1219), Biostatistics team. My main areas of research are the development of biostatistical methods for the analysis of longitudinal data, time-to-event data and semi-supervised clustering.
+
+In 2017-2019, I worked at the Institute of Public Health, Medical Research Council, Cambridge University, in the Biostatistics Unit, on the development of Bayesian methods for clustering from longitudinal data and correlated covariates.
+
+In 2016, I was awarded my Ph.D. in Public Health, Biostatistics, from the Bordeaux University.
+
+<!-- ## Education -->
+
+<!-- **Ph.D. in Public Health - Biostatistics** | Bordeaux, France -->
+
+<!-- Bordeaux University, Bordeaux Population Health research center, Inserm U1219 | 2013 - 2016 -->
+
+<!-- **Master 2: Biostatistics, Bioinformatics, Biomathematics and Health** | Lyon, France -->
+
+<!-- Claude Bernard Lyon I University | 2012 - 2013 -->
+
+<!-- **Engineering School Diploma** | Marseille, France -->
+
+<!-- Ecole Centrale Marseille | 2010 - 2013 -->
+
+<!-- ## Experience -->
+
+<!-- **Research Associate** | 2019 - Present -->
+
+<!-- Bordeaux Population Health research center, Inserm U1219 -->
+
+<!-- **Research Associate** | 2017 - 2019 -->
+
+<!-- Biostatistics Unit, Medical Research Council, Institute of Public Health, Cambridge University, the UK -->
