@@ -4,8 +4,8 @@ image: "Photo_AR2.png"
 links:
   - label: GitHub
     url: "https://github.com/anarouanet/"
-  - label: ResearchGate
-    url: "https://www.researchgate.net/profile/Anais-Rouanet-2/"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=fr&user=9Rlh2dUAAAAJ&view_op=list_works&sortby=pubdate"
   - label: Bordeaux Population Health
     url: "https://www.bordeaux-population-health.center/profile/anais-rouanet/"
   - label: Email
