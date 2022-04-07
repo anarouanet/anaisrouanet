@@ -3,14 +3,32 @@ title: "Publications"
 description: ""
 ---
 
-# Preprints
- 
- - paper 1 
- - paper 2
- 
-# 2021
- - paper 3
- - paper 4
+# Sous presse
 
-# 2020
+- 	**A Rouanet**, J Avila-Rieger, A Dugravot, ..., & C Proust-Lima. *How Selection Over Time Contributes to the Inconsistency of the Association between Sex/Gender and Cognitive Decline across Cognitive Aging Cohorts*, American Journal of Epidemiology, 2022, 191(3):441-452. [[link]](https://pubmed.ncbi.nlm.nih.gov/34521111)
+
+- JD Chamberlain, **A Rouanet**, ..., & C Dufouil, Memento Study group. *Investigating the association between cancer and the risk of dementia: Results from the Memento cohort*,  Alzheimer's & Dementia, 2021, 17(9):1415-1421. [[link]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12308)
+
+- 	**A Rouanet**, S Richardson, B Tom. *Benefit of Bayesian clustering of longitudinal data: study of cognitive decline for precision medicine*. In Bayesian Methods in Pharmaceutical Research, (eds: Lesaffre E, Baio G, and Boulanger B), Chapman & Hall/CRC Biostatistics Series, 2020, 223-242.
+[[link]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315180212-11/benefit-bayesian-clustering-longitudinal-data-study-cognitive-decline-precision-medicine-ana%C3%AFs-rouanet-sylvia-richardson-brian-tom)
+
+
+- RV Marinescu, ..., **A Rouanet**, ..., & DC Alexander. *The Alzheimer's disease prediction of longitudinal evolution (TADPOLE) challenge: Results after 1 year follow-up*,  Machine Learning for Biomedical Imaging, 2021, 1:1-60. [[link]](https://www.melba-journal.org/papers/2021:019.html)
+
+- H Jacqmin-Gadda, **A Rouanet**, RD Mba, V Philipps, J-F Dartigues. *Quantile regression for incomplete longitudinal data with selection by death*, Statistical Methods in Medical Research, 2020, 29(9):2697-2716. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280220909986)
+
+- **A Rouanet**,  C Helmer, J-F Dartigues, H Jacqmin-Gadda. *Interpretation of mixed models and marginal models with cohort attrition due to death and drop-out*, Statistical Methods in Medical Research, 2017, 28(2):343-356. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280217723675?journalCode=smma)
+
+
+- **A Rouanet**, P Joly, J-F Dartigues, C Proust-Lima, H Jacqmin-Gadda. *Joint latent class model for longitudinal data and interval-censored semi-competing events: Application to dementia*, Biometrics, 2016, 72(4):1123-1135. [[link]](https://www.jstor.org/stable/44695330?seq=1)
+
+
+- C Frindel, **A Rouanet**, ..., & D Rousseau. *Validity of shape as a predictive biomarker of final infarct volume in acute ischemic stroke*, Stroke, 2015, 46(4):976-981. [[link]](https://www.ahajournals.org/doi/10.1161/STROKEAHA.114.008046)
+
+
+
+# Pré-print
+- **A Rouanet**,  R Johnson, M Strauss, S Richardson, B Tom, S White, P Kirk. *Bayesian profile regression for clustering analysis involving a longitudinal response and explanatory variables*, arXiv: 2111.04518v1, 2021. [[link]](https://arxiv.org/abs/2111.04518v1)
+
+- V Mulcahy$^*$, **A Rouanet**$^*$,  ...,  & G Mells. *Latent class mixed modelling identifies subgroups of primary biliary cholangitis patients on first line treatment with distinct risks of end stage liver disease*, arXiv: 2203.10508, 2022. $^*$co-first authors. [[link]](https://arxiv.org/abs/2203.10508)
 
