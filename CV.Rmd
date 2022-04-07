@@ -1,0 +1,24 @@
+---
+title: "Curriculum Vitae"
+description: " "
+---
+
+## Education
+
+2016 | **Ph.D. in Biostatistics**<br/> *University of Bordeaux*, Bordeaux, France
+
+2013 | **Master’s degree** "Biostatistics, Bioinformatics, Biomathematics and Health"<br/> *University of Lyon 1*
+
+
+2013 | **Engineering degree**<br/> *Ecole Centrale Marseille*, Marseille, France
+
+2016 | **Ph.D. in Biostatistics**<br/>
+*University of Montpellier*, Montpellier, France
+
+2012 | **Master's degree in Biostatistics**<br/>
+*University of Montpellier*, Montpellier, France
+
+2010 | **[Bachelor's degree in Mathematics, computing applied to social sciences](https://formations.univ-grenoble-alpes.fr/fr/catalogue-2021/licence-XA/licence-mathematiques-et-informatique-appliquees-aux-sciences-humaines-et-sociales-miashs-IDIVNLE7.html)**<br/>
+*University of Grenoble*, Grenoble, France
+
+## Professional experiences

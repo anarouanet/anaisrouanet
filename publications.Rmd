@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-description: ""
+description: " "
 ---
 
 # Sous presse
