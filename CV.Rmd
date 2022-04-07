@@ -7,7 +7,7 @@ description: " "
 
 2016 | **Ph.D. in Biostatistics**<br/> *University of Bordeaux*, Bordeaux, France
 
-2013 | **Master’s degree** "Biostatistics, Bioinformatics, Biomathematics and Health"<br/> *University of Lyon 1*
+2013 | **Master’s degree** "Biostatistics, Bioinformatics, Biomathematics and Health"<br/> *University of Lyon 1*, Lyon, France
 
 
 2013 | **Engineering degree**<br/> *Ecole Centrale Marseille*, Marseille, France
@@ -16,17 +16,26 @@ description: " "
 ## Professional experiences
 
 2019 - 2022 | **Postdoctorate researcher**<br/>
-*Bordeaux Population Health*, Inserm U1219, Univ. Bordeaux, Bordeaux, France
+*Bordeaux Population Health*, Inserm U1219, University of Bordeaux, Bordeaux, France
 
 2017 - 2019 | **Research associate**<br/>
-*Institute of Public Health*, Cambridge University, Cambridge, The United Kingdom
+*Institute of Public Health*, Cambridge University, Cambridge, the United Kingdom
 
 
 2014 - 2016 | **Teaching assistant**<br/>
-*ISPED*, Univ. Bordeaux, Bordeaux, France
+*ISPED*, University of Bordeaux, Bordeaux, France
 
 ## Prizes and distinctions
 
+2017 | **Young Biometrician Award**, British and Irish Region of the International Biometric Society and  Fisher Memorial Trust. 
 
+2015 | **Student Award**, International Biometric Society Channel Conference - Nijmegen, the Netherlands.
 
 ## Software
+
+**CInLPN**  | Estimation of causal dynamic models for multiple  repeated markers (categorical and continuous) and competing events [[link]](https://github.com/anarouanet/CInLPN2)
+	
+**PReMiuMlongi**  | Nonparametric Bayesian estimation of mixture models for continuous repeated outcome and correlated covariates [[link]](https://github.com/premium-profile-regression/PReMiuMlongi)
+
+
+**lcmm** | Estimation of joint latent class models for semi-competing risks with interval censoring [[link]](https://github.com/anarouanet/Joint_Latent_Class_Illness_death_Model)
