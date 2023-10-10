@@ -11,11 +11,10 @@ description: " "
 
 - JD Chamberlain, **A Rouanet**, ..., & C Dufouil, Memento Study group. *Investigating the association between cancer and the risk of dementia: Results from the Memento cohort*,  Alzheimer's & Dementia, 2021, 17(9):1415-1421. [[link]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12308)
 
-- 	**A Rouanet**, S Richardson, B Tom. *Benefit of Bayesian clustering of longitudinal data: study of cognitive decline for precision medicine*. In Bayesian Methods in Pharmaceutical Research, (eds: Lesaffre E, Baio G, and Boulanger B), Chapman & Hall/CRC Biostatistics Series, 2020, 223-242.
-[[link]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315180212-11/benefit-bayesian-clustering-longitudinal-data-study-cognitive-decline-precision-medicine-ana%C3%AFs-rouanet-sylvia-richardson-brian-tom)
-
-
 - RV Marinescu, ..., **A Rouanet**, ..., & DC Alexander. *The Alzheimer's disease prediction of longitudinal evolution (TADPOLE) challenge: Results after 1 year follow-up*,  Machine Learning for Biomedical Imaging, 2021, 1:1-60. [[link]](https://www.melba-journal.org/papers/2021:019.html)
+
+- 	**A Rouanet**, S Richardson, B Tom. *Benefit of Bayesian clustering of longitudinal data: study of cognitive decline for precision medicine*. In Bayesian Methods in Pharmaceutical Research, (eds: Lesaffre E, Baio G, and Boulanger B), Chapman & Hall/CRC Biostatistics Series, 2020, 223-242, eBook ISBN9781315180212.
+[[link]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315180212-11/benefit-bayesian-clustering-longitudinal-data-study-cognitive-decline-precision-medicine-ana%C3%AFs-rouanet-sylvia-richardson-brian-tom)
 
 - H Jacqmin-Gadda, **A Rouanet**, RD Mba, V Philipps, J-F Dartigues. *Quantile regression for incomplete longitudinal data with selection by death*, Statistical Methods in Medical Research, 2020, 29(9):2697-2716. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280220909986)
 
