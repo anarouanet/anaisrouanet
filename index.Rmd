@@ -15,7 +15,7 @@ output:
 site: distill::distill_website
 ---
 
-I am a postdoctoral researcher working at the Bordeaux Population Health research center (Inserm U1219), Biostatistics team. My main areas of research focus on the development of biostatistical methods for the study of brain aging, in particular semi-supervised clustering and joint modelling approaches for multivariate longitudinal data and time-to-event data.
+I am a tenured assistant professor at the Bordeaux School of Public Health (*ISPED*), Univeristy of Bordeaux, France. My main areas of research focus on the development of biostatistical methods for the study of brain aging, in particular semi-supervised clustering and joint modelling approaches for multivariate longitudinal data and time-to-event data.
 
 In 2017-2019, I worked at the Institute of Public Health, Medical Research Council, Cambridge University, in the Biostatistics Unit, on the development of nonparametric Bayesian methods for clustering from longitudinal data and correlated covariates.
 

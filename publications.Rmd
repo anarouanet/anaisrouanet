@@ -3,7 +3,9 @@ title: "Publications"
 description: " "
 ---
 
-# Sous presse
+# Publiés
+
+- **A Rouanet**,  R Johnson, M Strauss, S Richardson, B Tom, S White, P Kirk. *Bayesian profile regression for clustering analysis involving a longitudinal response and explanatory variables*, JRSS C, 2023, sous presse,  [[link]](https://arxiv.org/abs/2111.04518v1)
 
 - 	**A Rouanet**, J Avila-Rieger, A Dugravot, ..., & C Proust-Lima. *How Selection Over Time Contributes to the Inconsistency of the Association between Sex/Gender and Cognitive Decline across Cognitive Aging Cohorts*, American Journal of Epidemiology, 2022, 191(3):441-452. [[link]](https://pubmed.ncbi.nlm.nih.gov/34521111)
 
@@ -28,7 +30,6 @@ description: " "
 
 
 # Pré-print
-- **A Rouanet**,  R Johnson, M Strauss, S Richardson, B Tom, S White, P Kirk. *Bayesian profile regression for clustering analysis involving a longitudinal response and explanatory variables*, arXiv: 2111.04518v1, 2021. [[link]](https://arxiv.org/abs/2111.04518v1)
 
 - V Mulcahy$^*$, **A Rouanet**$^*$,  ...,  & G Mells. *Latent class mixed modelling identifies subgroups of primary biliary cholangitis patients on first line treatment with distinct risks of end stage liver disease*, arXiv: 2203.10508, 2022. $^*$co-first authors. [[link]](https://arxiv.org/abs/2203.10508)
 

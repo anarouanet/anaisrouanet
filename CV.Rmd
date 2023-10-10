@@ -15,6 +15,9 @@ description: " "
 
 ## Professional experiences
 
+2022 | **Associate Professor in Biostatistics**<br/>
+University of Bordeaux, Bordeaux, France
+
 2019 - 2022 | **Postdoctorate researcher**<br/>
 *Bordeaux Population Health*, Inserm U1219, University of Bordeaux, Bordeaux, France
 
@@ -26,6 +29,8 @@ description: " "
 *ISPED*, University of Bordeaux, Bordeaux, France
 
 ## Prizes and distinctions
+
+2023 | **Publication of the Year Award**, Professional Interest Areas, Design and Data Analytics, ISTAART, Alzheimer's Association.
 
 2017 | **Young Biometrician Award**, British and Irish Region of the International Biometric Society and  Fisher Memorial Trust. 
 
