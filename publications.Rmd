@@ -5,30 +5,28 @@ description: " "
 
 # Publiés
 
-- **A Rouanet**,  R Johnson, M Strauss, S Richardson, B Tom, S White, P Kirk. *Bayesian profile regression for clustering analysis involving a longitudinal response and explanatory variables*, JRSS C, 2023, in press,  [[link]](https://arxiv.org/abs/2111.04518v1)
+- *Approaches to timescale choice in cognitive aging research and potential implications for estimated exposure effects: coordinated analyses in ten cohorts of older adults.*  E Hayes-Larson, RM Andrews, KL Kezios, A Bercu, **A Rouanet**, ..., & ER Mayeda. Epidemiology, 2025, DOI: 10.1097/EDE.0000000000001859
 
-- 	**A Rouanet**, J Avila-Rieger, A Dugravot, ..., & C Proust-Lima. *How Selection Over Time Contributes to the Inconsistency of the Association between Sex/Gender and Cognitive Decline across Cognitive Aging Cohorts*, American Journal of Epidemiology, 2022, 191(3):441-452. [[link]](https://pubmed.ncbi.nlm.nih.gov/34521111)
+- *Bayesian profile regression for clustering analysis involving a longitudinal response and explanatory variables.* **A Rouanet**,  R Johnson, M Strauss, S Richardson, B Tom, S White, P Kirk.  Journal of the Royal Statistical Society Series C: Applied Statistics, 2023,  73 (2), 314-339,  [[link]](https://arxiv.org/abs/2111.04518v1)
 
-- JD Chamberlain, **A Rouanet**, ..., & C Dufouil, Memento Study group. *Investigating the association between cancer and the risk of dementia: Results from the Memento cohort*,  Alzheimer's & Dementia, 2021, 17(9):1415-1421. [[link]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12308)
+- *How Selection Over Time Contributes to the Inconsistency of the Association between Sex/Gender and Cognitive Decline across Cognitive Aging Cohorts.*	**A Rouanet**, J Avila-Rieger, A Dugravot, ..., & C Proust-Lima. American Journal of Epidemiology, 2022, 191(3):441-452. [[link]](https://pubmed.ncbi.nlm.nih.gov/34521111)
 
-- RV Marinescu, ..., **A Rouanet**, ..., & DC Alexander. *The Alzheimer's disease prediction of longitudinal evolution (TADPOLE) challenge: Results after 1 year follow-up*,  Machine Learning for Biomedical Imaging, 2021, 1:1-60. [[link]](https://www.melba-journal.org/papers/2021:019.html)
+- *Investigating the association between cancer and the risk of dementia: Results from the Memento cohort.* JD Chamberlain, **A Rouanet**, ..., & C Dufouil, Memento Study group. Alzheimer's & Dementia, 2021, 17(9):1415-1421. [[link]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/alz.12308)
 
-- 	**A Rouanet**, S Richardson, B Tom. *Benefit of Bayesian clustering of longitudinal data: study of cognitive decline for precision medicine*. In Bayesian Methods in Pharmaceutical Research, (eds: Lesaffre E, Baio G, and Boulanger B), Chapman & Hall/CRC Biostatistics Series, 2020, 223-242, eBook ISBN9781315180212.
+- *The Alzheimer's disease prediction of longitudinal evolution (TADPOLE) challenge: Results after 1 year follow-up.* RV Marinescu, ..., **A Rouanet**, ..., & DC Alexander. Machine Learning for Biomedical Imaging, 2021, 1:1-60. [[link]](https://www.melba-journal.org/papers/2021:019.html)
+
+- 	*Benefit of Bayesian clustering of longitudinal data: study of cognitive decline for precision medicine.* **A Rouanet**, S Richardson, B Tom. In Bayesian Methods in Pharmaceutical Research, (eds: Lesaffre E, Baio G, and Boulanger B), Chapman & Hall/CRC Biostatistics Series, 2020, 223-242, eBook ISBN9781315180212.
 [[link]](https://www.taylorfrancis.com/chapters/edit/10.1201/9781315180212-11/benefit-bayesian-clustering-longitudinal-data-study-cognitive-decline-precision-medicine-ana%C3%AFs-rouanet-sylvia-richardson-brian-tom)
 
-- H Jacqmin-Gadda, **A Rouanet**, RD Mba, V Philipps, J-F Dartigues. *Quantile regression for incomplete longitudinal data with selection by death*, Statistical Methods in Medical Research, 2020, 29(9):2697-2716. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280220909986)
+- *Quantile regression for incomplete longitudinal data with selection by death.* H Jacqmin-Gadda, **A Rouanet**, RD Mba, V Philipps, J-F Dartigues. Statistical Methods in Medical Research, 2020, 29(9):2697-2716. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280220909986)
 
-- **A Rouanet**,  C Helmer, J-F Dartigues, H Jacqmin-Gadda. *Interpretation of mixed models and marginal models with cohort attrition due to death and drop-out*, Statistical Methods in Medical Research, 2017, 28(2):343-356. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280217723675?journalCode=smma)
-
-
-- **A Rouanet**, P Joly, J-F Dartigues, C Proust-Lima, H Jacqmin-Gadda. *Joint latent class model for longitudinal data and interval-censored semi-competing events: Application to dementia*, Biometrics, 2016, 72(4):1123-1135. [[link]](https://www.jstor.org/stable/44695330?seq=1)
+- *Interpretation of mixed models and marginal models with cohort attrition due to death and drop-out.* **A Rouanet**,  C Helmer, J-F Dartigues, H Jacqmin-Gadda. Statistical Methods in Medical Research, 2017, 28(2):343-356. [[link]](https://journals.sagepub.com/doi/abs/10.1177/0962280217723675?journalCode=smma)
 
 
-- C Frindel, **A Rouanet**, ..., & D Rousseau. *Validity of shape as a predictive biomarker of final infarct volume in acute ischemic stroke*, Stroke, 2015, 46(4):976-981. [[link]](https://www.ahajournals.org/doi/10.1161/STROKEAHA.114.008046)
+- *Joint latent class model for longitudinal data and interval-censored semi-competing events: Application to dementia.* **A Rouanet**, P Joly, J-F Dartigues, C Proust-Lima, H Jacqmin-Gadda. Biometrics, 2016, 72(4):1123-1135. [[link]](https://www.jstor.org/stable/44695330?seq=1)
 
 
+- *Validity of shape as a predictive biomarker of final infarct volume in acute ischemic stroke.* C Frindel, **A Rouanet**, ..., & D Rousseau. Stroke, 2015, 46(4):976-981. [[link]](https://www.ahajournals.org/doi/10.1161/STROKEAHA.114.008046)
 
-# Pré-print
 
-- V Mulcahy$^*$, **A Rouanet**$^*$,  ...,  & G Mells. *Latent class mixed modelling identifies subgroups of primary biliary cholangitis patients on first line treatment with distinct risks of end stage liver disease*, arXiv: 2203.10508, 2022. $^*$co-first authors. [[link]](https://arxiv.org/abs/2203.10508)
 
