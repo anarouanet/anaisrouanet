@@ -5,7 +5,7 @@ description: " "
 
 # Publiés
 
-- *Approaches to timescale choice in cognitive aging research and potential implications for estimated exposure effects: coordinated analyses in ten cohorts of older adults.*  E Hayes-Larson, RM Andrews, KL Kezios, A Bercu, **A Rouanet**, ..., & ER Mayeda. Epidemiology, 2025, DOI: 10.1097/EDE.0000000000001859
+- *Approaches to timescale choice in cognitive aging research and potential implications for estimated exposure effects: coordinated analyses in ten cohorts of older adults.*  E Hayes-Larson, RM Andrews, KL Kezios, A Bercu, **A Rouanet**, ..., & ER Mayeda. Epidemiology, 2025, DOI: 10.1097/EDE.0000000000001859 [[link]](https://pubmed.ncbi.nlm.nih.gov/40164562/)
 
 - *Bayesian profile regression for clustering analysis involving a longitudinal response and explanatory variables.* **A Rouanet**,  R Johnson, M Strauss, S Richardson, B Tom, S White, P Kirk.  Journal of the Royal Statistical Society Series C: Applied Statistics, 2023,  73 (2), 314-339,  [[link]](https://arxiv.org/abs/2111.04518v1)
 
