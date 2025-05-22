@@ -44,3 +44,8 @@ University of Bordeaux, Bordeaux, France
 
 
 **lcmm** | Estimation of joint latent class models for semi-competing risks with interval censoring [[link]](https://github.com/anarouanet/Joint_Latent_Class_Illness_death_Model)
+
+## Scientific mediation (in French)
+
+Tête-à-tête chercheuse(s) Podcast [[link]](https://podcast.ausha.co/tat-chercheuses/2-anais-rouanet-3)
+
