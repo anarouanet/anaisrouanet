@@ -6,7 +6,7 @@ description: " "
 # Publiés
 
 - *The association between smoking status and aging cognitive trajectory accounting for bias in attrition.* 
-R Stuckwisch, A Bennett, **A Rouanet**, LJ Edwards, M Crowe, SE Judd, DL Long. American Journal of Epidemiology, 2025, DOI: 10.1093/aje/kwaf107 [[link]]https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf107/8139576)
+R Stuckwisch, A Bennett, **A Rouanet**, LJ Edwards, M Crowe, SE Judd, DL Long. American Journal of Epidemiology, 2025, DOI: 10.1093/aje/kwaf107 [[link]](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf107/8139576)
 
 
 - *Approaches to timescale choice in cognitive aging research and potential implications for estimated exposure effects: coordinated analyses in ten cohorts of older adults.*  E Hayes-Larson, RM Andrews, KL Kezios, A Bercu, **A Rouanet**, ..., & ER Mayeda. Epidemiology, 2025, DOI: 10.1097/EDE.0000000000001859 [[link]](https://pubmed.ncbi.nlm.nih.gov/40164562/)
