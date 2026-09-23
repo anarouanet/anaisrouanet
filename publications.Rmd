@@ -5,6 +5,13 @@ description: " "
 
 # Publiés
 
+
+- *Modeling Temporal Relationships Between Multivariate Repeated Markers Along With Clinical Endpoints: Application to Alzheimer's Disease and Related Dementias.* 
+**A Rouanet**, V Philipps, BO Taddé, K Pérès, C Proust‐Lima. Biometrical Journal, 2026, 68(4), e70157.
+
+- *Heterogeneous trajectories of executive function in clinical Alzheimer's disease: Results from the 3C study.* 
+H Amieva, M Dussartre,  V Philipps,  **A Rouanet**,  C Dufouil,  H Jacqmin‐Gadda,  ... & C Proust‐Lima. Alzheimer's & Dementia: Diagnosis, Assessment & Disease Monitoring, 2026, 18(2), e70385.
+
 - *The association between smoking status and aging cognitive trajectory accounting for bias in attrition.* 
 R Stuckwisch, A Bennett, **A Rouanet**, LJ Edwards, M Crowe, SE Judd, DL Long. American Journal of Epidemiology, 2025, DOI: 10.1093/aje/kwaf107 [[link]](https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf107/8139576)
 
